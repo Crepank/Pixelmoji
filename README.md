@@ -16,3 +16,10 @@ Changelogs:
 
 ## Credits
 https://r74n.com/pixelflags/
+
+## A BETTER HEROES
+
+Thanks to these contributors who made the open-source repo BETTER!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
